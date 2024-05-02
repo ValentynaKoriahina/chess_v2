@@ -1,0 +1,123 @@
+[
+    {
+        "topic": "Ефективне використання рентгенівських ударів для атаки через інші фігури.",
+        "difficultyRange": 5,
+        "studentLevel": 5,
+        "mode": "classic",
+        "type": "Рентген",
+        "solutionStrategy": "Рентген",
+        "pgn": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.05.04\"]\n[Round \"-\"]\n[White \"Учень55\"]\n[Black \"Учень56\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5",
+        "targetSkills": "Планування нападу, Вибір стратегії",
+        "rate": 5,
+        "lessonId": 2
+        
+    },
+    {
+        "topic": "Тактики прогону фігур для зайняття ключових позицій на дошці.",
+        "difficultyRange": 3,
+        "studentLevel": 3,
+        "mode": "classic",
+        "type": "Прогін",
+        "solutionStrategy": "Прогнати",
+        "pgn": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.05.05\"]\n[Round \"-\"]\n[White \"Учень57\"]\n[Black \"Учень58\"]\n[Result \"*\"]\n\n1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 f5",
+        "targetSkills": "Тактична обізнаність, Планування нападу",
+        "rate": 4,
+        "lessonId": 2
+    },
+    {
+        "topic": "Використання перекриття для захисту короля та інших важливих фігур.",
+        "difficultyRange": 3,
+        "studentLevel": 3,
+        "mode": "classic",
+        "type": "Защита короля",
+        "solutionStrategy": "Перекриття",
+        "pgn": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.05.06\"]\n[Round \"-\"]\n[White \"Учень59\"]\n[Black \"Учень60\"]\n[Result \"*\"]\n\n1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3 Be7 9. Qd2 O-O",
+        "targetSkills": "Захист і контратака, Аналіз позиції",
+        "rate": 4,
+        "lessonId": 2
+    },
+    {
+        "topic": "Стратегії обміну фігур для спрощення позиції та підвищення шансів на перемогу.",
+        "difficultyRange": 2,
+        "studentLevel": 2,
+        "mode": "classic",
+        "type": "Обмін",
+        "solutionStrategy": "Обмін",
+        "pgn": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.05.07\"]\n[Round \"-\"]\n[White \"Учень61\"]\n[Black \"Учень62\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. c4 c5 12. d5",
+        "targetSkills": "Тактична обізнаність, Вибір стратегії",
+        "rate": 3,
+        "lessonId": 2
+    },
+    {
+        "topic": "Побудова взаємодії між фігурами для створення непробивних позицій.",
+        "difficultyRange": 5,
+        "studentLevel": 5,
+        "mode": "classic",
+        "type": "Взаємодія",
+        "solutionStrategy": "Взаємодія",
+        "pgn": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.05.08\"]\n[Round \"-\"]\n[White \"Учень63\"]\n[Black \"Учень64\"]\n[Result \"*\"]\n\n1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O d5 9. Ne5 O-O 10. Bc3 Ne4 11. Bb2 f6 12. Nd3 Nd7",
+        "targetSkills": "Планування нападу, Захист і контратака",
+        "rate": 5,
+        "lessonId": 2
+    },
+    {
+        "topic": "Стратегії і тактики для створення та використання двойного шаху.",
+        "difficultyRange": 5,
+        "studentLevel": 5,
+        "mode": "classic",
+        "type": "Двойной шах",
+        "solutionStrategy": "Подвійний шах",
+        "pgn": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.12\"]\n[Round \"-\"]\n[White \"Учень11\"]\n[Black \"Учень12\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. O-O Nf6",
+        "targetSkills": "Тактична обізнаність, Планування нападу",
+        "rate": 5,
+        "lessonId": 1
+    },
+    {
+        "topic": "Використання тактики перекриття для захисту важливих фігур.",
+        "difficultyRange": 3,
+        "studentLevel": 3,
+        "mode": "classic",
+        "type": "Защита короля",
+        "solutionStrategy": "Перекриття",
+        "pgn": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.13\"]\n[Round \"-\"]\n[White \"Учень13\"]\n[Black \"Учень14\"]\n[Result \"*\"]\n\n1. d4 Nf6 2. c4 g6 3. Nc3 Bg7",
+        "targetSkills": "Захист і контратака, Вибір стратегії",
+        "rate": 4,
+        "lessonId": 1
+    },
+    {
+        "topic": "Тактика відволікання як спосіб відвести захисника від ключової позиції.",
+        "difficultyRange": 4,
+        "studentLevel": 4,
+        "mode": "classic",
+        "type": "Объявление пата",
+        "solutionStrategy": "Відволікання",
+        "pgn": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.14\"]\n[Round \"-\"]\n[White \"Учень15\"]\n[Black \"Учень16\"]\n[Result \"*\"]\n\n1. e4 c6 2. d4 d5 3. e5 Bf5",
+        "targetSkills": "Планування нападу, Аналіз позиції",
+        "rate": 3,
+        "lessonId": 1
+    },
+    {
+        "topic": "Розвиток навичок взаємодії між фігурами для ефективного нападу та оборони.",
+        "difficultyRange": 4,
+        "studentLevel": 4,
+        "mode": "classic",
+        "type": "Взаємодія",
+        "solutionStrategy": "Взаємодія",
+        "pgn": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.15\"]\n[Round \"-\"]\n[White \"Учень17\"]\n[Black \"Учень18\"]\n[Result \"*\"]\n\n1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7",
+        "targetSkills": "Тактична обізнаність, Захист і контратака",
+        "rate": 3,
+        "lessonId": 1
+    },
+    {
+        "topic": "Техніка 'рентген' для виявлення та атакування фігур, що знаходяться на одній лінії.",
+        "difficultyRange": 5,
+        "studentLevel": 5,
+        "mode": "classic",
+        "type": "Рентген",
+        "solutionStrategy": "Рентген",
+        "pgn": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.16\"]\n[Round \"-\"]\n[White \"Учень19\"]\n[Black \"Учень20\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6",
+        "targetSkills": "Планування нападу, Тактична обізнаність",
+        "rate": 5,
+        "lessonId": 5
+    }
+]
